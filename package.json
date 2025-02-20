@@ -1,0 +1,22 @@
+{
+  "name": "pup-patrol",
+  "version": "1.0.0",
+  "description": "WDD330 Final project",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uronico/pup-patrol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uronico/pup-patrol/issues"
+  },
+  "homepage": "https://github.com/uronico/pup-patrol#readme",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
